@@ -6,7 +6,7 @@ Overview:
 
 Simplified data warehousing infrastructure:
 
-<img width="1748" height="738" alt="image" src="https://github.com/user-attachments/assets/ce56133f-b3db-445d-b924-75518be23c22" />
+<img width="1647" height="754" alt="image" src="https://github.com/user-attachments/assets/df79671d-87f9-46d6-b185-4b6d34477617" />
 
 Virtualization:
 
